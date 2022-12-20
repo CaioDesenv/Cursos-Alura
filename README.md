@@ -2,13 +2,14 @@
  Curso One Oracle
 Fala Senhoras e Senhores!
 
-Postei aqui tudo que aprendi em um curso fast da Alura, treinando Lôgica de Programação em JS e aprendendo sobre HTML, divirta-se testando esses pequenos codigos e jogando, pois contem varios joguinhos!
+Neste repositorio postarei todo o aprendizado que terei no curso da One Oracle Next Education que estou participando!
 
-Eu utilizei VS Code e Google Chrome para criação dos codigos mas sinta-se a vontade caso tenha outra plataforma que consiga rodar os codigos!
+Eu utilizei Sublime 3 para escrever os codigos e Google Chrome para vizualização dos programas! Sinta-se a vontade caso tenha outra plataforma que consiga rodar os codigos!
 
 um abraço!!
 
+Javascript e HTML desenvolva um jogo e pratique lógica de programação
+(https://cursos.alura.com.br/course/logica-programacao-javascript-html)
 
-https://cursos.alura.com.br/course/logica-programacao-javascript-html
-
-Ah todos os progrogramas então na pasta (programsAlura)..
+Javascript e HTML pratique lógica com desenhos animações e um jogo
+(https://cursos.alura.com.br/course/logica-programacao-pratica-com-desenho-animacoes-em-jogo)
