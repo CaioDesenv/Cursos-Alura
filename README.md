@@ -8,8 +8,13 @@ Eu utilizei Sublime 3 para escrever os codigos e Google Chrome para vizualizaç�
 
 um abraço!!
 
-Javascript e HTML desenvolva um jogo e pratique lógica de programação
+Pasta - Javascript e HTML desenvolva um jogo e pratique lógica de programação
 (https://cursos.alura.com.br/course/logica-programacao-javascript-html)
 
-Javascript e HTML pratique lógica com desenhos animações e um jogo
+Pasta - Javascript e HTML pratique lógica com desenhos animações e um jogo
 (https://cursos.alura.com.br/course/logica-programacao-pratica-com-desenho-animacoes-em-jogo)
+
+Pasta HTML5 e CSS3
+crie uma página da Web
+
+
