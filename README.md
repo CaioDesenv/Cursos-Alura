@@ -1,4 +1,4 @@
-# logicaAlura
+# Cursos Alura
  Curso One Oracle
 Fala Senhoras e Senhores!
 
