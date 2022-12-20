@@ -1,0 +1,33 @@
+
+<canvas width ="600" height ="400" ></canvas>
+
+<script> 
+	//bucando o canvas fora do JS no HTML
+	var tela = document.querySelector('canvas');
+	var pincel = tela.getContext('2d');
+
+	//pegando o pincel e falando qual cor usar
+	pincel.fillStyle = 'darkblue';
+
+	//declarando a posição da cor a ser usada
+	pincel.fillRect(0, 0, 600, 400);
+
+	//Retângulo 1: 400, 300 (cabeça).
+	pincel.fillStyle = 'darkgreen';
+	pincel.fillRect(100, 50, 400, 300);
+
+	pincel.fillStyle = 'black';
+	pincel.beginPath();
+	//Retângulos 2 e 3: 90, 90 (olhos).
+	pincel.fillRect(185, 120, 90, 90);
+	pincel.fillRect(345, 120, 90, 90);	
+
+	//Retângulo 4: 70, 100 (nariz).
+	pincel.fillRect(275, 210, 70, 100);
+
+	//Retângulos 5 e 6: 40, 110 (parte da boca).
+	pincel.fillRect(235, 240, 40, 110);
+	pincel.fillRect(345, 240, 40, 110);
+	pincel.fill();
+
+</script>
